@@ -1,6 +1,6 @@
 body{
     display: flex;
-    background-color: rgb(207, 250, 213);
+    background-color: rgb(238, 219, 188);
     flex-direction: column;
     justify-content: center; 
     align-items: center;     
@@ -10,4 +10,10 @@ body{
 
 #aura{
     margin-top: 20px;
+}
+
+img{
+    width: 400px;
+    border-radius: 10px;
+    margin: 20px;
 }
